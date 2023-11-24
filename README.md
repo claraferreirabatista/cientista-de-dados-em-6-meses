@@ -1,4 +1,4 @@
-Aprendizado de Máquina
+# Aprendizado de Máquina
 
 ### Semana 1-3: Fundamentos Teóricos de Aprendizagem de Máquina
 - Semana 1: Introdução a Machine Learning e Ciclo de Modelagem
