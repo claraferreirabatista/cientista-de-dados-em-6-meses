@@ -1,0 +1,1 @@
+# cientista-de-dados-em-6-meses
